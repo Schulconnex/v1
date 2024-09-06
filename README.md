@@ -6,3 +6,7 @@ Das Dokument "Abweichungen Version 1.3 zu 1.4" beschreibt die inhaltlichen Verä
 
 Update: 
 Am 17.4.2024 wurde eine neue Version von 1.4 (1.004.050) bereit gestellt, in der ein Hotfix vorgenommen wurde, mit dem ein Fehler in der Beschreibung zu /v1/personen beseitigt wurde. Hier wurde an einigen Stellen statt des Datentyps Person der Datentyp Personendatensatz im Text benutzt..
+
+> **Wichtiger Hinweis**
+> Dieses Repository dient ab sofort nur noch zur Bereitstellung von Schulconnex Version 1.4.
+> **Bitte wechseln Sie zu https://github.com/Schulconnex/Schulconnex**.
